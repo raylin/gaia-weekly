@@ -4,6 +4,8 @@
   - Bug 1086911 - Update style of about:firefox
     - WIP
     - header background stack finished
+  - Bug 1273468 - Full-screen button is missing in 47 Beta 6
+    - Help investigate and find regression
   - Bug 1091241 - Make add-on detail page look more like a detail page
     - r? Margaret
     - fixed border issue, review again
